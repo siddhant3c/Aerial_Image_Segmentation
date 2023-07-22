@@ -2,7 +2,6 @@
 
 *A project completed under the **Coursera Project Network** by*
 
-
 **Siddhant Chourasia**
 
 B.Tech | Electrical Engineering | IIT Bombay
@@ -10,6 +9,8 @@ B.Tech | Electrical Engineering | IIT Bombay
 Certificate of Completion: [View Certificate](Coursera%20AT4Z2GMW5FEM.pdf)
 
 ---
+
+<img alt="Results" src="result.png">
 
 ## Overview
 
